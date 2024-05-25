@@ -1,0 +1,2 @@
+# tetris_pygame
+APPLYING OOP TO TETRIS GAME PROJECT
